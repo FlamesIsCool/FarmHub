@@ -149,7 +149,7 @@ Instance.new("UIStroke", frame).Color = Color3.fromRGB(255, 255, 0)
 
 local label = Instance.new("TextLabel", frame)
 label.Size = UDim2.new(1, 0, 0, 30)
-label.Text = "🌾 FarmHub - Max Gold Mode"
+label.Text = "🌾 FarmHub - BABFT"
 label.TextColor3 = Color3.fromRGB(255, 255, 0)
 label.Font = Enum.Font.GothamBold
 label.TextSize = 16
